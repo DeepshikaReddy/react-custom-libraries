@@ -1,2 +1,2 @@
-import Footer from "./Footer.jsx"
-import Main from "./Main.jsx"
+import Footer from "./Headers/Footer.jsx"
+import MultiDatePicker from "./DatePicker/MultiDatePicker.jsx"

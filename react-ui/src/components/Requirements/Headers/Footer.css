@@ -1,0 +1,14 @@
+.footer-container {
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+.footer-text {
+    font-size: 19px;
+  }
+
+  .footer-subtext {
+    font-size: 15px;
+    background-color : grey;
+  }

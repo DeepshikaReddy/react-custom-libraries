@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+  }
+  
+  .left-div, .right-div {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+
+  .custom-modal {
+    width: 250px;
+    margin: 0 auto;
+  }
+
+  .error-heading{
+    font-size:small;
+  }
+  
+  
+  
+  
+  
+  
+  

@@ -15,13 +15,12 @@
 
 
 import React from 'react';
-import Footer from '../components/Requirements/Footer';
+import Footer from '../components/Requirements/Headers/Footer';
 
 export default {
-  title: 'Footer',
+  title: 'Headers/Footer',
   component: Footer,
 };
 
-export const WithTextFooter = () => <Footer label ="Im Standard Footer" color="green" />;
-export const DefaultFooter = () => <Footer label ="Im Default Footer" color="yellow" />;
+export const WithTextFooter = () => <Footer label ="Main Heading" color="lightblue" multiText="true" secondaryText="Sub-Heading"/>;
 

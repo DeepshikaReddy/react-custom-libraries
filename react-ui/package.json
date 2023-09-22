@@ -1,7 +1,7 @@
 {
   "name": "fast-react-lib",
   "type": "module",
-  "version": "3.0.0",
+  "version": "5.0.0",
   "description": "React Library that contains commonly used components to build UI.",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -41,6 +41,7 @@
     "react-dom": "^18.2.0"
   },
   "dependencies": {
-    "fast-react-lib": "^1.0.0"
+    "fast-react-lib": "^1.0.0",
+    "react-modal": "^3.16.1"
   }
 }
